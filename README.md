@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Saxyphonez
-- 👀 I’m interested in just odd bits of code (eg tools or small projects) just for fun
-- 🌱 I’m currently learning/honing Python
+- This is my space of random code stuff and PCB designs
 
 <!---
 Saxyphonez/Saxyphonez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
